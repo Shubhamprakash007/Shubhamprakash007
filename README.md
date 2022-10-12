@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1380)]()
 <h1 align="center">Hi 👋, I'm Shubham Prakash</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="100" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamprakash007&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamprakash007" /> </p>
 
